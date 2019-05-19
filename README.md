@@ -2,5 +2,5 @@
 
 ## 目录
 
-1. [虚拟环境（venv）](./zh/1.venv.md)
-2. [Windows 可执行文件打包（pyinstaller）](./zh/2.pyinstaller.md)
+1. [虚拟环境（venv）](./text/zh/1.venv.md)
+2. [Windows 可执行文件打包（pyinstaller）](./text/zh/2.pyinstaller.md)
